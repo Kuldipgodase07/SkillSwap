@@ -74,6 +74,32 @@ REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
 REACT_APP_FIREBASE_APP_ID=your_app_id
 ```
 
+## Project Structure
+
+```
+src/
+├── components/          # Reusable UI components
+│   ├── Navbar.tsx     # Navigation component
+│   └── PrivateRoute.tsx # Protected route wrapper
+├── contexts/           # React contexts
+│   └── AuthContext.tsx # Authentication context
+├── firebase/           # Firebase configuration
+│   └── config.ts      # Firebase setup
+├── pages/              # Page components
+│   ├── Dashboard.tsx   # User dashboard
+│   ├── Home.tsx        # Landing page
+│   ├── Login.tsx       # Login page
+│   ├── Messages.tsx    # Messaging page
+│   ├── Profile.tsx     # User profile
+│   ├── Register.tsx    # Registration page
+│   └── SkillListings.tsx # Skills management
+├── types/              # TypeScript type definitions
+│   └── index.ts        # Application types
+├── App.tsx             # Main app component
+├── index.tsx           # App entry point
+└── index.css           # Global styles
+```
+
 ### 4. Start the Development Server
 
 ```bash
