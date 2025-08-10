@@ -115,7 +115,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 | Home Page | Skill Listing | Chat & Scheduling |
 |-----------|---------------|------------------|
-| ![Home Page](https://github.com/Kuldipgodase07/SkillSwap/blob/main/images/home.png?raw=true) | ![Skill Listing](https://github.com/Kuldipgodase07/SkillSwap/blob/main/images/skills.png?raw=true) | ![Chat & Scheduling](https://github.com/Kuldipgodase07/SkillSwap/blob/main/images/chat.png?raw=true) |
+| ![Home Page](https://github.com/Kuldipgodase07/SkillSwap/blob/main/SkillSwap/Images/Home%20Page) | ![Skill Listing](https://github.com/Kuldipgodase07/SkillSwap/blob/main/SkillSwap/Images/Skill%20Listing) | ![Chat & Scheduling](https://github.com/Kuldipgodase07/SkillSwap/blob/main/SkillSwap/Images/Chat%20%26%20Scheduling) |
 
 
 
